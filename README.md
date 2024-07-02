@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shashanksasi46
+- 👋 Hi, I’m Shashank
 - 👀 I’m interested in spending time with myself
 - 🌱 I’m currently in learning mode and will continue that
 - 💞️ I’m looking to collaborate on Data Engineering
